@@ -9,7 +9,7 @@ import {youtubeLibraryLoaded} from './store/actions/api';
 import Trending from './containers/Trending/Trending';
 import Search from './containers/Search/Search';
 
-const API_KEY = AIzaSyDjMRhkKr57F0-dRRamQbQpus9rfgXYAlo;
+const API_KEY = 'AIzaSyDjMRhkKr57F0-dRRamQbQpus9rfgXYAlo';
 
 class App extends Component {
   render() {
